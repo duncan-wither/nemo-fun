@@ -1,0 +1,8 @@
+[Nemo Action]
+Active=true
+Name=Covert to .png
+Comment=Convert .heic to .png
+Exec=<heif2png.sh "%F">
+Icon-Name=gtk-execute
+Selection=S
+Extensions=heic;

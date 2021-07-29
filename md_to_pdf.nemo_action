@@ -1,0 +1,8 @@
+[Nemo Action]
+Active=true
+Name=Convert to PDF
+Comment=Use pandoc to convert markdown to pdf.
+Exec=<md_to_pdf.sh %F>
+Icon-Name=gtk-execute
+Selection=S
+Extensions=md;

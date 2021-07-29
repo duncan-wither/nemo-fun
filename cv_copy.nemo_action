@@ -1,0 +1,8 @@
+[Nemo Action]
+Active=true
+Name=Move as CV
+Comment=Move CV to desktop and rename
+Exec=<copy_cv.sh "%F">
+Icon-Name=gtk-execute
+Selection=S
+Extensions=pdf;
