@@ -1,8 +1,8 @@
 [Nemo Action]
 Active=true
-Name=Move to TVPC
-Comment=Move MP4 to TVPC
+Name=Copy to Server
+Comment=Move file to selected server
 Exec=<move2serverSSH.sh "%F">
 Icon-Name=gtk-execute
 Selection=S
-Extensions=mp4;
+Extensions=any;
