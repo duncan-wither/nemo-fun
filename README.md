@@ -9,7 +9,7 @@ Add the files to the following folder to use:
  - `heif2png` - converts `.heif` and `.heic` files to location. This is because the `.heic` format apple uses isn't widely understood by file managers / image viewers yet.
  - `md_to_pdf` - simply converts `.md` to `.pdf` using pandocs.
  - `XXX_photos` - the start of an image organisation plan. Still in development.
- - `move2serverSSH` - moves a `mp4` file to another PC via ssh. Update with your own info. I use it to send downloaded videos to my TV.
+ - `move2serverSSH` - moves a file to another PC via ssh. Update with your own info. I use it to send downloaded videos to my TV.
 
 ## Notes:
  - `.sh` files use the same name as the `.nemo_action` file that calls them.
@@ -20,6 +20,5 @@ Add the files to the following folder to use:
    - Opens internet w/ https://github.com/new
    - Prompts for the url
    - Commits
-   - Adds to git cola (because I love gui).
-     - Hard: Applends to ~/.config/git-cola/settings under recents
-     - Easy: Opens git-cola in dir to add it, then you just close the window
+   - Add to list of git directories
+     - List doesn't yet exits.
