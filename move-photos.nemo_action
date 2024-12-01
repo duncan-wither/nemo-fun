@@ -1,8 +1,0 @@
-[Nemo Action]
-Active=true
-Name=Move Photos
-Comment=Move Photos from list.
-Exec=<move-photos.sh "%F">
-Icon-Name=gtk-execute
-Selection=S
-Extensions=photolist;

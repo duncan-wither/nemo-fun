@@ -1,8 +1,0 @@
-[Nemo Action]
-Active=true
-Name=Delete Photos
-Comment=Delete Photos from list.
-Exec=<delete-photos.sh "%F">
-Icon-Name=gtk-execute
-Selection=S
-Extensions=photolist;

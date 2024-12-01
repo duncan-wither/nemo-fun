@@ -1,8 +1,0 @@
-[Nemo Action]
-Active=true
-Name=Look at Photos
-Comment=See Photos from list.
-Exec=<see-photos.sh "%F">
-Icon-Name=gtk-execute
-Selection=S
-Extensions=photolist;
